@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5 {
     font-family: 'Fjalla One', sans-serif;
     color: #fff;
 }
-h1 {
+#dv-3 h1 {
     font-weight: 700;
     /* font-size: 8em; */
 }
@@ -140,9 +140,7 @@ a, a:hover, a:focus {
     right: -450px;
     height: 100vh;
     z-index: 999;
-    /* background: #7386D5; */
     background: #fff;
-    /* color: #fff; */
     color: black;
     transition: all 0.3s;
 }
@@ -276,7 +274,7 @@ a.article, a.article:hover {
     font-family: 'Fjalla One', sans-serif;
     font-size: 1.6rem;
     font-weight: 600;
-    line-height: 1;
+    line-height: 1.5;
     margin-top: 0;
     }
 
@@ -304,6 +302,11 @@ a.article, a.article:hover {
     
     #dv-2 img {
         width: 80px;
+    }
+
+    #dv-3 h1 {
+        font-size: 2.2em;
+        line-height: 1.5em;
     }
 
     .navbar {
@@ -349,7 +352,7 @@ a.article, a.article:hover {
 
     #dv-3 h1 {
         font-size: 3rem;
-        line-height: 1.2;
+        line-height: 1.4;
     }
 
     #dv-3 p {
@@ -400,7 +403,7 @@ a.article, a.article:hover {
 
     #dv-3 h1 {
         font-size: 4rem;
-        line-height: 1.2;
+        line-height: 1.4;
     }
 
     #dv-3 {
