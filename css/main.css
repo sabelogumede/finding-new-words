@@ -280,6 +280,7 @@ a.article, a.article:hover {
 
     #dv-3 p {
         font-size: 0.9em;
+        margin-bottom: 1px;
     }
 
     /* social icons */
@@ -410,6 +411,9 @@ a.article, a.article:hover {
         margin-top: 100px;
     }
 
+    #topnav .navbar {
+        padding-bottom: 0 !important;
+    }
 
  }
 
